@@ -1,0 +1,50 @@
+.btn {
+    padding-left: 500px;
+    margin-left: 500px;
+}
+
+
+
+
+
+
+
+.tooltip-container {
+    display: inline-block;
+    position: relative;
+  }
+  
+  .tooltip {
+    position: absolute;
+    padding: 5px;
+    background-color: #333;
+    color: white;
+    border-radius: 4px;
+    z-index: 1000;
+  }
+  
+  .tooltip-top {
+    transform: translateY(-50%);
+    bottom: 10%;
+  }
+  
+  .tooltip-bottom {
+    top: 100%;
+  }
+  
+  .tooltip-left {
+    right: 100%;
+    transform: translateX(-100%);
+  }
+  
+  .tooltip-right {
+    left: 100%;
+  }
+
+  
+
+
+
+
+
+
