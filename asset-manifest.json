@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PK-ToolTip/static/css/main.c517183f.css",
+    "main.js": "/PK-ToolTip/static/js/main.2f09367c.js",
+    "static/js/787.8b800d45.chunk.js": "/PK-ToolTip/static/js/787.8b800d45.chunk.js",
+    "index.html": "/PK-ToolTip/index.html",
+    "main.c517183f.css.map": "/PK-ToolTip/static/css/main.c517183f.css.map",
+    "main.2f09367c.js.map": "/PK-ToolTip/static/js/main.2f09367c.js.map",
+    "787.8b800d45.chunk.js.map": "/PK-ToolTip/static/js/787.8b800d45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c517183f.css",
+    "static/js/main.2f09367c.js"
+  ]
+}
